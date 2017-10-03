@@ -29,10 +29,10 @@ READ IN LIVEBOOK
 [x] 1.1.1. Why Grails changed the game
 [x] 1.1.2. Seven big ideas
 [x] 1.2. Getting set up
-[ ] 1.3. QOTD: your sample program
-[ ] 1.3.1. Writing a controller
-[ ] 1.3.2. Generating an HTML page: the view
-[ ] 1.3.3. Adding style with Grails layouts
+[x] 1.3. QOTD: your sample program
+[x] 1.3.1. Writing a controller
+[x] 1.3.2. Generating an HTML page: the view
+[x] 1.3.3. Adding style with Grails layouts
 [ ] 1.4. Creating the domain model
 [ ] 1.4.1. Configuring the data source
 [ ] 1.4.2. Exploring database operations
