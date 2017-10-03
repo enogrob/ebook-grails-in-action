@@ -25,10 +25,10 @@ ABOUT THE COVER ILLUSTRATION
 PART 1 INTRODUCING GRAILS
 READ IN LIVEBOOK
 1. GRAILS IN A HURRY…​
-[ ] 1.1. Introducing Grails
-[ ] 1.1.1. Why Grails changed the game
-[ ] 1.1.2. Seven big ideas
-[ ] 1.2. Getting set up
+[x] 1.1. Introducing Grails
+[x] 1.1.1. Why Grails changed the game
+[x] 1.1.2. Seven big ideas
+[x] 1.2. Getting set up
 [ ] 1.3. QOTD: your sample program
 [ ] 1.3.1. Writing a controller
 [ ] 1.3.2. Generating an HTML page: the view
@@ -45,7 +45,6 @@ READ IN LIVEBOOK
 [ ] 1.6.3. Bundling the final product: creating a WAR file
 [ ] 1.6.4. And 80 lines of code later
 [ ] 1.7. Summary and best practices
-READ IN LIVEBOOK
 2. THE GROOVY ESSENTIALS
 [ ] 2.1. Writing your first script
 [ ] 2.1.1. Using lists, loops, and methods
@@ -61,7 +60,6 @@ READ IN LIVEBOOK
 [ ] 2.3.3. To type or not to type
 [ ] 2.4. Summary and best practices
 PART 2 CORE GRAILS
-READ IN LIVEBOOK
 3. CMODELING THE DOMAIN
 [ ] 3.1. Introducing the Hubbub sample application
 [ ] 3.1.1. Domain-driven design
@@ -82,7 +80,6 @@ READ IN LIVEBOOK
 [ ] 3.4.3. Many-to-many relationships
 [ ] 3.4.4. Self-referencing relationships
 [ ] 3.5. Summary and best practices
-READ IN LIVEBOOK
 4. CREATING THE INITIAL UI
 [ ] 4.1. Creating instant UIs with scaffolding
 [ ] 4.1.1. Scaffolding Hubbub’s domain classes
@@ -94,7 +91,6 @@ READ IN LIVEBOOK
 [ ] 4.3.1. Customizing the dynamic scaffolding
 [ ] 4.3.2. Scaffolding as a starting point
 [ ] 4.4. Summary and best practices
-READ IN LIVEBOOK
 5. RETRIEVING THE DATA YOU NEED
 [ ] 5.1. Setting up the data and search form
 [ ] 5.1.1. Loading sample data
@@ -109,7 +105,6 @@ READ IN LIVEBOOK
 [ ] 5.3.4. Creating a tag cloud using report-style query projections
 [ ] 5.3.5. Using HQL directly
 [ ] 5.4. Summary and best practices
-READ IN LIVEBOOK
 6. CONTROLLING APPLICATION FLOW
 [ ] 6.1. Controller essentials
 [ ] 6.2. Implementing a timeline for Hubbub
@@ -129,7 +124,6 @@ READ IN LIVEBOOK
 [ ] 6.6.1. One test, two use cases
 [ ] 6.6.2. Working with redirects
 [ ] 6.7. Summary and best practices
-READ IN LIVEBOOK
 7. SERVICES AND DATA BINDING
 [ ] 7.1. Services: making apps robust and maintainable
 [ ] 7.1.1. Implementing a PostService
@@ -159,7 +153,6 @@ READ IN LIVEBOOK
 [ ] 7.6.5. Wildcard support
 [ ] 7.6.6. Named URL mappings
 [ ] 7.7. Summary and best practices
-READ IN LIVEBOOK
 8. DEVELOPING TASTY FORMS, VIEWS, AND LAYOUTS
 [ ] 8.1. Understanding the core form tags
 [ ] 8.1.1. A handful of essential tags
@@ -184,7 +177,6 @@ READ IN LIVEBOOK
 [ ] 8.4.3. Adding sizzle: animation and effects
 [ ] 8.5. Summary and best practices
 PART 3 EVERYDAY GRAILS
-READ IN LIVEBOOK
 9. BUILDING RELIABLE APPLICATIONS
 [ ] 9.1. Running tests
 [ ] 9.1.1. Mastering test execution
@@ -197,7 +189,6 @@ READ IN LIVEBOOK
 [ ] 9.3.2. Understanding how Geb works
 [ ] 9.3.3. Using page objects for maintainability
 [ ] 9.4. Summary and best practices
-READ IN LIVEBOOK
 10. USING PLUGINS: JUST ADD WATER
 [ ] 10.1. Taking advantage of others' hard work
 [ ] 10.1.1. Finding plugins
@@ -227,7 +218,6 @@ READ IN LIVEBOOK
 [ ] 10.5.5. Query suggestions: did you mean "Grails"?
 [ ] 10.5.6. Searching across relationships
 [ ] 10.6. Summary and best practices
-READ IN LIVEBOOK
 11. PROTECTING YOUR APPLICATION
 [ ] 11.1. Dealing with untrusted data and networks
 [ ] 11.1.1. Validating user input
@@ -246,7 +236,6 @@ READ IN LIVEBOOK
 [ ] 11.3.1. Tightening restrictions on access
 [ ] 11.3.2. Social authentication
 [ ] 11.4. Summary and best practices
-READ IN LIVEBOOK
 12. EXPOSING YOUR APP TO OTHER PROGRAMS
 [ ] 12.1. Creating a REST interface
 [ ] 12.1.1. What is REST?
@@ -260,7 +249,6 @@ READ IN LIVEBOOK
 [ ] 12.3.2. Versioning the API
 [ ] 12.3.3. Implementing functional testing
 [ ] 12.4. Summary and best practices
-READ IN LIVEBOOK
 13. SINGLE-PAGE WEB APPLICATIONS (AND OTHER UI STUFF)
 [ ] 13.1. Revisiting Grails web resource management
 [ ] 13.1.1. Defining your resources
@@ -276,7 +264,6 @@ READ IN LIVEBOOK
 [ ] 13.3.2. Introducing an update feature
 [ ] 13.3.3. Finalizing lifecycles with delete
 [ ] 13.4. Summary and best practices
-READ IN LIVEBOOK
 14. UNDERSTANDING SPRING AND TRANSACTIONS
 [ ] 14.1. Spring fundamentals
 [ ] 14.1.1. What is dependency injection?
@@ -288,7 +275,6 @@ READ IN LIVEBOOK
 [ ] 14.2.3. Fine-grained transactions
 [ ] 14.3. Summary and best practices
 PART 4 ADVANCED GRAILS
-READ IN LIVEBOOK
 15. UNDERSTANDING EVENTS, MESSAGING, AND SCHEDULING
 [ ] 15.1. Lightweight messaging with Platform Core
 [ ] 15.1.1. Installing Platform Core
@@ -313,7 +299,6 @@ READ IN LIVEBOOK
 [ ] 15.5.2. Pausing and resuming stateful jobs programmatically
 [ ] 15.5.3. Job persistence with JDBS storage
 [ ] 15.6. Summary and best practices
-READ IN LIVEBOOK
 16. NOSQL AND GRAILS
 [ ] 16.1. The problem with PostgreSQL (or when to choose NoSQL)
 [ ] 16.2. Types of NoSQL databases (and typical use cases table)
@@ -341,7 +326,6 @@ READ IN LIVEBOOK
 [ ] 16.5.4. Walking and visualizing the graph with Cypher
 [ ] 16.5.5. Walking the entire graph
 [ ] 16.6. Summary and best practices
-READ IN LIVEBOOK
 17. BEYOND COMPILE, TEST, RUN
 [ ] 17.1. Getting to deployment
 [ ] 17.1.1. Managing your dependencies
@@ -353,7 +337,6 @@ READ IN LIVEBOOK
 [ ] 17.3.1. Building a standalone app
 [ ] 17.3.2. Building a multiproject app
 [ ] 17.4. Summary and best practices
-READ IN LIVEBOOK
 18. GRAILS IN THE CLOUD
 [ ] 18.1. Getting to know the cloud
 [ ] 18.1.1. What is the cloud?
@@ -367,7 +350,6 @@ READ IN LIVEBOOK
 [ ] 18.2.6. Other features to consider
 [ ] 18.3. Summary and best practices
 BONUS CHAPTERS — AVAILABLE ONLINE
-READ IN LIVEBOOK
 19. ADVANCED GORM KUNG FU
 [ ] 19.1. Domain model kung fu
 [ ] 19.1.1. Exploring inheritance options
@@ -387,7 +369,6 @@ READ IN LIVEBOOK
 [ ] 19.3.2. Using GORM DSL to access existing database table structures
 [ ] 19.3.3. Dealing with multiple data sources
 [ ] 19.4. Summary and best practices
-READ IN LIVEBOOK
 20. DEVELOPING PLUGINS
 [ ] 20.1. Creating the plugin
 [ ] 20.1.1. Are you sure it’s not an application?
